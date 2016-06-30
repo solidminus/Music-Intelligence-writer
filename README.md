@@ -1,5 +1,5 @@
 # Music-Intelligence-writer
-Artificial intelligence for generating of music compositions
+Artificial intelligence for generating music compositions
 
 Version alpha 0.1
 
